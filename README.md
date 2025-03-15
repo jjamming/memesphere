@@ -34,4 +34,23 @@
 <br/>
 
 ## 📸  스크린샷
+### 알림 설정 컴포넌트
+<img width="573" alt="Image" src="https://github.com/user-attachments/assets/39e1e4a9-5b47-47f0-b850-83f87177284f" />
+좌측 상단 등록하기에서 코인 이름, 변동성, 기준 시간, 상승/하락을 선택하여 등록할 수 있습니다.
 
+사이트 내에 존재하는 코인들을 드롭박스화 하여 사용자 입력에 따라 선택할 수 있고, 코인 이름과 심볼 중 하나만 선택하면 나머지가 자동완성 됩니다.
+
+
+<img width="1467" alt="Image" src="https://github.com/user-attachments/assets/73d2582a-0826-4fea-b3c5-cdd3d9fdb3a7" />
+
+
+시연 영상
+
+
+https://github.com/user-attachments/assets/3d0b369a-2e18-4438-9789-342b939bfdac
+
+### 커뮤니티 페이지
+공포탐욕지수, 뉴스, 코인 카드로 구성됩니다.
+
+
+<img width="1032" alt="Image" src="https://github.com/user-attachments/assets/0fee9dc7-17b2-41fa-b31a-98606a495082" />
